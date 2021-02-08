@@ -1,0 +1,31 @@
+var json_CCTV_9 = {
+"type": "FeatureCollection",
+"name": "CCTV_9",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "CCTV GEMPOL" }, "geometry": { "type": "Point", "coordinates": [ 112.697347216038693, -7.547640337268589 ] } },
+{ "type": "Feature", "properties": { "name": "CCTV PATUNGSAPI" }, "geometry": { "type": "Point", "coordinates": [ 112.689641517117593, -7.644265440805101 ] } },
+{ "type": "Feature", "properties": { "name": "CCTV POLSEK PANDAAN" }, "geometry": { "type": "Point", "coordinates": [ 112.687725222928705, -7.65402157917463 ] } },
+{ "type": "Feature", "properties": { "name": "CCTV P21 (SRIKANDI)" }, "geometry": { "type": "Point", "coordinates": [ 112.695371411505903, -7.654317418093285 ] } },
+{ "type": "Feature", "properties": { "name": "CCTV CHENG HO" }, "geometry": { "type": "Point", "coordinates": [ 112.688077920864899, -7.651900556925129 ] } },
+{ "type": "Feature", "properties": { "name": "CCTV TAMANDAYU" }, "geometry": { "type": "Point", "coordinates": [ 112.699808100837402, -7.665418776797089 ] } },
+{ "type": "Feature", "properties": { "name": "CCTV JETAK" }, "geometry": { "type": "Point", "coordinates": [ 112.703230090331601, -7.672623811186387 ] } },
+{ "type": "Feature", "properties": { "name": "CCTV PURWOSARI" }, "geometry": { "type": "Point", "coordinates": [ 112.746127382672299, -7.771589821516925 ] } },
+{ "type": "Feature", "properties": { "name": "CCTV PEGADAIAN PURWOSARI" }, "geometry": { "type": "Point", "coordinates": [ 112.743333609230206, -7.776504211144102 ] } },
+{ "type": "Feature", "properties": { "name": "CCTV PURWODADI" }, "geometry": { "type": "Point", "coordinates": [ 112.734065262805899, -7.802341967424075 ] } },
+{ "type": "Feature", "properties": { "name": "CCTV SENTUL PURWODADI" }, "geometry": { "type": "Point", "coordinates": [ 112.720930404530606, -7.812394857220606 ] } },
+{ "type": "Feature", "properties": { "name": "CCTV PASAR WONOREJO" }, "geometry": { "type": "Point", "coordinates": [ 112.803056768569306, -7.717762044084762 ] } },
+{ "type": "Feature", "properties": { "name": "CCTV WARUNGDOWO" }, "geometry": { "type": "Point", "coordinates": [ 112.882767483468598, -7.687007815153712 ] } },
+{ "type": "Feature", "properties": { "name": "CCTV RANGGEH" }, "geometry": { "type": "Point", "coordinates": [ 112.902090648501002, -7.700149456424786 ] } },
+{ "type": "Feature", "properties": { "name": "CCTV REJOSO" }, "geometry": { "type": "Point", "coordinates": [ 112.957875700230701, -7.683663711671504 ] } },
+{ "type": "Feature", "properties": { "name": "CCTV NGOPAK" }, "geometry": { "type": "Point", "coordinates": [ 112.975486699267293, -7.699021552335918 ] } },
+{ "type": "Feature", "properties": { "name": "CCTV SEMAMBUNG GRATI" }, "geometry": { "type": "Point", "coordinates": [ 113.000174101364294, -7.708547803064696 ] } },
+{ "type": "Feature", "properties": { "name": "CCTV SUMURWARU GRATI" }, "geometry": { "type": "Point", "coordinates": [ 113.015004335883603, -7.712458117244348 ] } },
+{ "type": "Feature", "properties": { "name": "CCTV SEDARUM" }, "geometry": { "type": "Point", "coordinates": [ 113.061114906461597, -7.716193959491734 ] } },
+{ "type": "Feature", "properties": { "name": "CCTV NGULING" }, "geometry": { "type": "Point", "coordinates": [ 113.077912202256798, -7.717425992283278 ] } },
+{ "type": "Feature", "properties": { "name": "CCTV TAMBAKREJO" }, "geometry": { "type": "Point", "coordinates": [ 112.870866460757796, -7.627900094005553 ] } },
+{ "type": "Feature", "properties": { "name": "CCTV PERKANTORAN RACI" }, "geometry": { "type": "Point", "coordinates": [ 112.830495614979, -7.607714242237766 ] } },
+{ "type": "Feature", "properties": { "name": "CCTV ALUN-ALUN BANGIL" }, "geometry": { "type": "Point", "coordinates": [ 112.783925239273501, -7.598422126121056 ] } },
+{ "type": "Feature", "properties": { "name": "CCTV PEGADAIAN BANGIL" }, "geometry": { "type": "Point", "coordinates": [ 112.779001567742796, -7.597566084425859 ] } }
+]
+}
